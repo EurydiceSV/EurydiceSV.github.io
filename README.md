@@ -1,12 +1,12 @@
 # Data Scientist
 
 ## Education
-**M.S., Statistics for Data Science | Freie Universität Berlin (_December 2020_)**
+**M.S. Statistics for Data Science | Freie Universität Berlin (_December 2020_)**
 
 - Thesis on "Time Series Prediction of Fluid Dynamical Systems"
 - Bayesian statistics, Time series analysis, neural network, network analysis
 
-**B.S., Mathematics | Universidad Carlos III de Madrid (_September 2022_)**
+**B.S. Mathematics | Universidad Carlos III de Madrid (_September 2022_)**
 
 - Thesis on "Time Series Prediction of Fluid Dynamical Systems"
 
